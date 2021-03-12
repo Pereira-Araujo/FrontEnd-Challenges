@@ -1,4 +1,6 @@
 # Front-End Challenges
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 Repositório criado para momentos de :tada:descontração e criatividade 🎨 seguindo como inspiração o [100 Days CSS Challenge](https://100dayscss.com/) e o [CodePen Challenges](https://codepen.io/challenges/)
 
